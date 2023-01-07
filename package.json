@@ -1,0 +1,28 @@
+{
+  "name": "fiap-serverless",
+  "version": "1.0.0",
+  "description": "Trabalho conclusão disciplina Serverless - FIAP",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \\\"Error: no test specified\\\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vinirt1/fiap-lambda.git"
+  },
+  "keywords": [
+    "lambda",
+    "aws",
+    "nodejs",
+    "javascript"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vinirt1/fiap-lambda/issues"
+  },
+  "homepage": "https://github.com/vinirt1/fiap-lambda#readme",
+  "dependencies": {
+    "mysql": "^2.18.1"
+  }
+}
